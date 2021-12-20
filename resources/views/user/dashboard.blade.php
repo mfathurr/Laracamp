@@ -41,7 +41,7 @@
 												</td>
 												<td>
 														<a href="http://wa.me/08xxxxxxxxx?text=Hi, saya ingin bertanya tentang kelas {{ $checkout->Camp->title }}" class="btn btn-primary">
-																Get Invoice
+																Contact Support
 														</a>
 												</td>
 										</tr>
